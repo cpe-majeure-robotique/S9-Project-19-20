@@ -1,24 +1,24 @@
 # Déroulement du projet
 
-- 13/12 : 
+- 10/12 : 
   - Appropriation du sujet / Lecture de documents
   - Voir si besoin de composants à commander
   - Organisation **obligatoire** de votre Board Issues Gitlab
   - Premier commit **obligatoire** à pousser sur GitLab
 
-- 19/12 :
+- 13/12 :
   - Prise en main du matériel
   - Dernier délai pour passer d'éventuelle commandes
 
-- 20/12 - 17/01 : Projet (phase 1)
+- 10/12 - 10/01 : Projet (phase 1)
 
-- 17/01 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)**
+- 10/01 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)**
 
-- 18/12 - 23/01 : Projet (phase 2)
+- 13/01 - 22/01 : Projet (phase 2)
 
-- 24/01 : Soutenances
+- 23/01 : Soutenances
 
-- 25/01 : 
+- 24/01 : 
   - Soutenances (suite)
   - Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
 
@@ -82,16 +82,16 @@
 
 # SUJETS :
 
-| Sujets                                 | Nb groupes | Pers. par grp |
-| -------------------------------------- | ---------- | ------------- |
-| [Simulateur véhicule autonome](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-1-.-Simulateur-v%C3%A9hicule-autonome)                                |  illimité  |       2/3     |
-| [Chaise roulante](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-2-.-Chaise-roulante)                        |     1      |       2/3     |
-| [Albator - Vision/Manip bras](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-3-.-Albator---Vision-Manip-bras)            |     1      |        2      |
-| [Services IA Pepper](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-4-.-Services-IA-Pepper)                     |     2      |        2      |
-| [Intelligence artificielle embarquée](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-5-.-Intelligence-artificielle-embarqu%C3%A9e)    |     2      |        2      |
-| [Pepper domotique MQTT](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-6-.-Pepper-domotique-MQTT)                  |     1      |        2      |
-| [Pepper oral navigation + minimum social](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-7-.-Pepper-oral-navigation---minimum-social)|     1      |        2      |
-| [Manipulation avec le Baxter et QR code](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-8-.-Manipulation-avec-le-Baxter-et-QR-code) |     1      |        2      |
+|N| Sujets                                 | Nb groupes | Pers. par grp |   Salle  |  PC  |
+|-| -------------------------------------- | ---------- | ------------- | -------- | ---- |
+|1| [Simulateur véhicule autonome](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-1-.-Simulateur-v%C3%A9hicule-autonome)                                  |  illimité  |       2/3     | Salle TP |  TP  |
+|2| [Chaise roulante](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-2-.-Chaise-roulante)                                                                    |     1      |       2/3     | Salle Rob|  1GP |
+|3| [Albator - Vision/Manip bras](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-3-.-Albator---Vision-Manip-bras)                                            |     1      |        2      | Arène Rob|  1GP |
+|4| [Services IA Pepper](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-4-.-Services-IA-Pepper)                                                              |     2      |        2      | C222     |TP+Deep|  
+|5| [Intelligence artificielle embarquée](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-5-.-Intelligence-artificielle-embarqu%C3%A9e)               |     2      |        2      | Salle TP |Perso  |
+|6| [Pepper domotique MQTT](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-6-.-Pepper-domotique-MQTT)                                                        |     1      |        2      | C222     |Perso  |
+|7| [Pepper oral navigation + minimum social](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-7-.-Pepper-oral-navigation---minimum-social)               |     1      |        2      | C222     |TP     |
+|8| [Manipulation avec le Baxter et QR code](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-8-.-Manipulation-avec-le-Baxter-et-QR-code)                      |     1      |        2      | Salle Rob|PC S. Rob|
 
 
 
