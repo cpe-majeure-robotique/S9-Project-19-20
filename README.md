@@ -85,13 +85,13 @@
 | Sujets                                 | Nb groupes | Pers. par grp |
 | -------------------------------------- | ---------- | ------------- |
 | [Simulateur véhicule autonome](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-1-.-Simulateur-v%C3%A9hicule-autonome)                                |  illimité  |       2/3     |
-| Chaise roulante                        |     1      |       2/3     |
-| Albator - Vision/Manip bras            |     1      |        2      |
-| Services IA Pepper                     |     2      |        2      |
-| Intelligence artificielle embarquée    |     2      |        2      |
-| Pepper domotique MQTT                  |     1      |        2      |
-| Pepper oral navigation + minimum social|     1      |        2      |
-| Manipulation avec le Baxter et QR code |     1      |        2      |
+| [Chaise roulante](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-2-.-Chaise-roulante)                        |     1      |       2/3     |
+| [Albator - Vision/Manip bras](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-3-.-Albator---Vision-Manip-bras)            |     1      |        2      |
+| [Services IA Pepper](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-4-.-Services-IA-Pepper)                     |     2      |        2      |
+| [Intelligence artificielle embarquée](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-5-.-Intelligence-artificielle-embarqu%C3%A9e)    |     2      |        2      |
+| [Pepper domotique MQTT](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-6-.-Pepper-domotique-MQTT)                  |     1      |        2      |
+| [Pepper oral navigation + minimum social](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-7-.-Pepper-oral-navigation---minimum-social)|     1      |        2      |
+| [Manipulation avec le Baxter et QR code](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-8-.-Manipulation-avec-le-Baxter-et-QR-code) |     1      |        2      |
 
 
 
