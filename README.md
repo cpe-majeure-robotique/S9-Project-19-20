@@ -84,7 +84,7 @@
 
 | Sujets                                 | Nb groupes | Pers. par grp |
 | -------------------------------------- | ---------- | ------------- |
-| [Simulateur véhicule autonome](S1)           |  illimité  |       2/3     |
+| [Simulateur véhicule autonome](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-1-.-Simulateur-v%C3%A9hicule-autonome)                                |  illimité  |       2/3     |
 | Chaise roulante                        |     1      |       2/3     |
 | Albator - Vision/Manip bras            |     1      |        2      |
 | Services IA Pepper                     |     2      |        2      |
