@@ -29,7 +29,7 @@
 
 - **Projets** :
   - Rendu avec un Tag sous GitLab
-  - **README** : Chaque projet doit avoir un README.md adapté selon le template fourni en snippet
+  - **README** : Chaque projet doit avoir un README.md adapté selon le [template fourni en snippet](https://gitlab.com/snippets/1917426)
 
 - **Des vidéos**
   - Une vidéo de 30s à 1 min présentant le projet (pitch attractif)
