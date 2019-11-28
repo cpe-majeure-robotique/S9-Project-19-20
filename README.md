@@ -28,7 +28,7 @@
 - **Matériel** : Si votre projet comporte du matériel, un prototype réalisé, il devra être rendu dans son intégralité
 
 - **Projets** :
-  - Créez sous GitLab un projet par partie distincte (e.g. cpe_wheelchair_ros, cpe_wheelchair_embedded)
+  - Rendu avec un Tag sous GitLab
   - **README** : Chaque projet doit avoir un README.md adapté selon le template fourni en snippet
 
 - **Des vidéos**
