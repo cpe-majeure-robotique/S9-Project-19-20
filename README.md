@@ -84,7 +84,7 @@
 
 |N| Sujets                                 | Nb groupes | Pers. par grp |   Salle  |  PC  |
 |-| -------------------------------------- | ---------- | ------------- | -------- | ---- |
-|1| [Simulateur véhicule autonome](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-1-.-Simulateur-v%C3%A9hicule-autonome)                                  |  illimité  |       2/3     | Salle TP |  TP  |
+|1| [Simulateur véhicule autonome](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-1-.-Simulateur-v%C3%A9hicule-autonome)                                  |  illimité (28)  |       2/3     | Salle TP |  TP  |
 |2| [Chaise roulante](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-2-.-Chaise-roulante)                                                                    |     1      |       2/3     | Salle Rob|  1GP |
 |3| [Albator - Vision/Manip bras](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-3-.-Albator---Vision-Manip-bras)                                            |     1      |        2      | Arène Rob|  1GP |
 |4| [Services IA Pepper](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-4-.-Services-IA-Pepper)                                                              |     2      |        2      | C222     |TP+Deep|  
