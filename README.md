@@ -89,7 +89,7 @@
 |3| [Albator - Vision/Manip bras](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-3-.-Albator---Vision-Manip-bras)                                            |     1      |        2      | Arène Rob|  1GP |
 |4| [Services IA Pepper](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-4-.-Services-IA-Pepper)                                                              |     2      |        2      | C222     |TP+Deep|  
 |5| [Intelligence artificielle embarquée](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-5-.-Intelligence-artificielle-embarqu%C3%A9e)               |     2      |        2      | Salle TP |Perso  |
-|6| [Pepper domotique MQTT](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-6-.-Pepper-domotique-MQTT)                                                        |     1      |        2      | C222     |Perso  |
+|6| [Pepper domotique MQTT](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-6-.-Pepper-domotique-MQTT)                                                        |     1      |        2      | C222     |Perso / GP  |
 |7| [Pepper oral navigation + minimum social](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-7-.-Pepper-oral-navigation---minimum-social)               |     1      |        2      | C222     |TP     |
 |8| [Manipulation avec le Baxter et QR code](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-8-.-Manipulation-avec-le-Baxter-et-QR-code)                      |     1      |        2      | Salle Rob|PC S. Rob|
 
