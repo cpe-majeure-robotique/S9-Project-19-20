@@ -1,5 +1,7 @@
 # Déroulement du projet
 
+![GitLab Board](https://raw.githubusercontent.com/cpe-majeure-robotique/S9-Project-19-20/master/images/GitLab_Board.png)
+
 - 10/12 : 
   - Appropriation du sujet / Lecture de documents
   - Voir si besoin de composants à commander
@@ -92,7 +94,5 @@
 |6| [Pepper domotique MQTT](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-6-.-Pepper-domotique-MQTT)                                                        |     1      |        2      | C222     |Perso / GP  |
 |7| [Pepper oral navigation + minimum social](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-7-.-Pepper-oral-navigation---minimum-social)               |     1      |        2      | C222     |TP     |
 |8| [Manipulation avec le Baxter et QR code](https://github.com/cpe-majeure-robotique/S9-Project-19-20/wiki/Sujet-8-.-Manipulation-avec-le-Baxter-et-QR-code)                      |     1      |        2      | Salle Rob|PC S. Rob|
-
-
 
 
