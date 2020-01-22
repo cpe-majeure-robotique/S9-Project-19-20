@@ -18,10 +18,9 @@
 
 - 13/01 - 22/01 : Projet (phase 2)
 
-- 23/01 : Soutenances
+- 23/01 : Soutenances. Fin des commit sur GitLab à 18h (**fin des rendus**) et livraison sous forme de **Tag**
 
-- 24/01 : 
-  - Soutenances (suite)
+- 24/01 : Travail complémentaire si exigé par les profs :
   - Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
 
 
@@ -47,7 +46,7 @@
 
 # Soutenances : 
  
-- Vos soutenances auront lieu jeudi 24 janvier de **7h45 à 13h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
+- Vos soutenances auront lieu jeudi 23 janvier de **7h45 à 13h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
 
 - Chaque groupe aura une base de 8mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 17mn, et ce temps sera équi-réparti soit environ 5mn40s chacun.
 
